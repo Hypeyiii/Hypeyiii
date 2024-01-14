@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Isaa Frias</h1>
+<h1 align="center">Hi 👋, I'm Isaac Frias</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hypeyiii&label=Profile%20views&color=0e75b6&style=flat" alt="hypeyiii" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hypeyiii" alt="hypeyiii" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS and back end technologies**
 
