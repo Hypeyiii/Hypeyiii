@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS and back end technologies**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-isaacfrias.netlify.app/](https://portfolio-isaacfrias.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-isaacfrias.netlify.app/](https://isaacfrias.vercel.app/)
 
 - 📫 How to reach me **isaacfrias868@gmail.com**
 
